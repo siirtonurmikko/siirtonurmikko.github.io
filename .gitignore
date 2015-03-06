@@ -1,2 +1,11 @@
-_site/
 .sass-cache/
+.git/
+node_modules/
+_site/
+.gitignore
+Gruntfile.js
+package.json
+*.css.map
+work-in-progress.html
+styles.scss
+css/styles.css
