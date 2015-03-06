@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://siirtonurmikko.net/sitemap.xml
+Disallow:
